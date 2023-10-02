@@ -35,12 +35,12 @@ Routes:
       {"DELETE ON localhost:3000/api/cidr/10.1.1.1"}
 ```
 
-## v202110.1.2 - 10-26-2021
+## v202110.1.2
 
 - Unit test for Post, Patch, Delete added (42 so far), separated into invdivdual test files
 - Added appropriae javadoc flags for the controller class
 
-## v202110.1.1 - 10-24-2021
+## v202110.1.1
 
 - Refactored all to TypeScript
 - Integrated a test runner and Chai (Assertion library - underlying package / syntax used for Postman scripting). Boostrapped, tests to be added.
@@ -59,7 +59,7 @@ Added Packages:
     "tsconfig-paths": "^3.11.0" - Assists with path resolution
 ```
 
-## v202110.1.0 - 10-18-2021
+## v202110.1.0
 
 Packages:
 
